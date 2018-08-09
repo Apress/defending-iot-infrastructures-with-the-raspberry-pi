@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=piSensorGUI
+Icon=gnome-monitor
+Exec=sudo /home/pi/Desktop/SENSOR/piSensor
+Type=Application
+Terminal=False
+Path=/home/pi/Desktop/SENSOR
+GenericName=Raspberry Pi Passive Network Sensor

@@ -1,0 +1,14 @@
+001337 	WiFi Pineapple
+DC7FA4	2Wire Inc. Arris AT&T Router
+002368	Zebra Technologies Motorola AP7131
+A00460	Netgear	Arlo
+B0C554	Netgear	DLink wireless camera
+AC220B	AsusTekC Asus laptop
+98F170	Murata (Samsung WiFi)Samsung Galaxy S5 
+60601F	SZ DJI TECHNOLOGY CO. LTD DJI Phantom drone
+A0143D	PARROT SA Parrot Disco
+903AE6	PARROT SA Parrot Disco
+9003B7	PARROT SA Parrot Disco
+00267E	PARROT SA Parrot Disco
+00121C	PARROT SA Parrot Disco
+
